@@ -1,6 +1,5 @@
 # RFMClusify
 
-Utilize the RFM (Recency, Frequency, Monetary) method to cluster customers based on their purchase behavior.
 ![RFMClusify Logo](RFM.png) <!-- replace "link_to_logo_image" with the actual URL or file path of the logo image -->
 
 ## Files
