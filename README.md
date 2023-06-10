@@ -4,17 +4,17 @@
 
 ## Files
 
-1. RFMClustering.ipynb
+1. `RFMClustering.ipynb`
    - This notebook contains the code for performing RFM clustering on customer data.
    - It uses the RFM (Recency, Frequency, Monetary) method to calculate customer scores.
    - The clustering algorithm is applied to identify different customer segments.
 
-2. RFMClusteringDBSCAN.ipynb
+2. `RFMClusteringDBSCAN.ipynb`
    - This notebook explores the use of DBSCAN (Density-Based Spatial Clustering of Applications with Noise) algorithm for RFM clustering.
    - DBSCAN is a density-based clustering method that can discover clusters of arbitrary shapes.
    - It can be an alternative to traditional clustering algorithms like k-means.
 
-3. RFMClusteringElbow.ipynb
+3. `RFMClusteringElbow.ipynb`
    - This notebook demonstrates the use of the elbow method to determine the optimal number of clusters in RFM clustering.
    - The elbow method helps find the appropriate number of clusters by analyzing the within-cluster sum of squares (WCSS) for different cluster counts.
 
